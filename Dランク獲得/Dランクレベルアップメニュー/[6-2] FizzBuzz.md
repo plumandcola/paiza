@@ -24,7 +24,7 @@ for i in range(1, 101):
         print(i)
 ```
 
-三項演算子ver.
+**三項演算子ver.**
 
 ```python
 for i in range(1, 101):
