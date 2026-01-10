@@ -24,6 +24,14 @@ for i in range(1, 101):
         print(i)
 ```
 
+```python
+for i in range(1, 101):
+    if i % 15 == 0: print("FizzBuzz")
+    elif i % 3 == 0: print("Fizz")
+    elif i % 5 == 0: print("Buzz")
+    else: print(i)
+```
+
 **三項演算子ver.**
 
 ```python
@@ -37,7 +45,7 @@ for i in range(1, 101):
 ```python
 for i in range(1, 101):
     print(
-        "FizzBuzz" if i % 3 == 0 and i % 5 == 0
+        "FizzBuzz" if i % 15 == 0
         else "Fizz" if i % 3 == 0
         else "Buzz" if i % 5 == 0
         else i
