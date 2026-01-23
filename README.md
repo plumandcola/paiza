@@ -52,5 +52,5 @@
 - 解答未作成
 ### [論理演算メニュー](https://github.com/plumandcola/paiza/tree/main/Cランク獲得/論理演算メニュー)
 - Python3とC++の解答あり
-### 文字列処理メニュー
+### [文字列処理メニュー](https://github.com/plumandcola/paiza/tree/main/Cランク獲得/文字列処理メニュー)
 - Python3とC++の解答を作成中
